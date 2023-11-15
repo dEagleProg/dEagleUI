@@ -1,7 +1,7 @@
 # dEagleUI
 
 This is an app that uses tldraw and the GPT-4-vision API to generate html based on a wireframe you draw.
-# <p align='center'> 🔗 _LIVE_ - [_**dEagleUI**_](https://deagleui.netlify.app/)</p>
+# <p align='center'> 🔗 _LIVE_ - [_**dEagleUI**_](https://deagleui.vercel.app/)</p>
 
 # About
 
@@ -28,4 +28,4 @@ npm run build
 ```
 
 ## Deployment
-**<p align='center'> Deployed on [_**Netlify**_](https://netlify.com/)</p>**
+**<p align='center'> Deployed on [_**Vercel**_](https://vercel.app/)</p>**
