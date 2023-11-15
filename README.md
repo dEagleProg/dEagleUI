@@ -6,7 +6,7 @@ This is an app that uses tldraw and the GPT-4-vision API to generate html based 
 ## Images
 
 <a href="https://deaglesimulator.vercel.app" target="_blank">
-  <img src="https://i.imgur.com/gfBs7cu.jpg"> 
+  <img src="https://i.imgur.com/P2ptMEv.jpg"> 
 </a>
 
 <a href="https://deaglesimulator.vercel.app" target="_blank">
