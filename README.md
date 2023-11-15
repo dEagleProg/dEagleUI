@@ -1,6 +1,9 @@
 # dEagleUI
 
-This is an app that uses tldraw and the gpt-4-vision api to generate html based on a wireframe you draw.
+This is an app that uses tldraw and the GPT-4-vision API to generate html based on a wireframe you draw.
+# <p align='center'> 🔗 _LIVE_ - [_**dEagleUI**_](https://deagleui.netlify.app/)</p>
+
+# About
 
 This works by just taking the current canvas SVG, converting it to a PNG, and sending that png to gpt-4-vision with instructions to return a single html file with tailwind.
 
@@ -13,9 +16,16 @@ This is a Next.js app. To get started run the following commands in the root dir
 > Note this uses Next.js 14 and requires a version of `node` greater than 18.17. [Read more here](https://nextjs.org/docs/pages/building-your-application/upgrading/version-14).
 
 ```bash
-echo "OPENAI_API_KEY=sk-your-key" > .env.local
+add "OPENAI_API_KEY=sk-your-key" > .env and change "sk-your-key" on your own API keys
 npm install
 npm run dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+To run build
+```
+npm run build
+```
+
+## Deployment
+**<p align='center'> Deployed on [_**Netlify**_](https://netlify.com/)</p>**
