@@ -3,6 +3,20 @@
 This is an app that uses tldraw and the GPT-4-vision API to generate html based on a wireframe you draw.
 # <p align='center'> 🔗 _LIVE_ - [_**dEagleUI**_](https://deagleui.vercel.app/)</p>
 
+## Images
+
+<a href="https://deaglesimulator.vercel.app" target="_blank">
+  <img src="https://i.imgur.com/gfBs7cu.jpg"> 
+</a>
+
+<a href="https://deaglesimulator.vercel.app" target="_blank">
+  <img src="https://i.imgur.com/JEr4HWS.png"> 
+</a>
+
+<a href="https://deaglesimulator.vercel.app" target="_blank">
+  <img src="https://i.imgur.com/ACb34F7.png"> 
+</a>
+
 # About
 
 This works by just taking the current canvas SVG, converting it to a PNG, and sending that png to gpt-4-vision with instructions to return a single html file with tailwind.
